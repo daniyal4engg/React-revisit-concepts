@@ -1,0 +1,29 @@
+{
+  "student": [
+    {
+      "email": "arsalan",
+      "pass": "sunny",
+      "id": 1
+    },
+    {
+      "email": "lexi@gmail.com",
+      "pass": "d",
+      "id": 2
+    },
+    {
+      "email": "lexi@gmail.com",
+      "pass": "as",
+      "id": 3
+    },
+    {
+      "email": "arsalans",
+      "pass": "shaikh",
+      "id": 4
+    },
+    {
+      "email": "as",
+      "pass": "ss",
+      "id": 5
+    }
+  ]
+}
